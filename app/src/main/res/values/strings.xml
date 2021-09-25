@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleNote</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_ET">Title</string>
+    <string name="body_ET">Body</string>
+    <string name="menu_item">Delete</string>
+</resources>
